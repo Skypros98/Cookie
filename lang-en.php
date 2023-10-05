@@ -1,0 +1,7 @@
+<?php
+
+$judul = "Welcome, Ahmad";
+
+
+
+?>
